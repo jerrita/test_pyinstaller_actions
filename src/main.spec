@@ -5,7 +5,6 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['/Users/jerrita/Desktop/programs/pyqt_test'],
              binaries=[],
              datas=[],
              hiddenimports=[],
